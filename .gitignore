@@ -1,4 +1,5 @@
 *
 !/.gitignore
 !/TestDir
-/test.txt
+!/README.md
+!/test.txt
